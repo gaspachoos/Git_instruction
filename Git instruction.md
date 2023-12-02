@@ -52,4 +52,8 @@ git checkout master
 ```sh
 git diff
 ```
+## 14. Листинг текущей директории
+```sh
+dir
+```
 
