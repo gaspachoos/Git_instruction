@@ -77,5 +77,8 @@ git restore
 git restore --staged
 ```
 
+*Мы конечно можем еще написать инструкцию по MarkDown,но,увы,нам лень :)*
+
+
 
 
