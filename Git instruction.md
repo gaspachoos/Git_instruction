@@ -16,3 +16,7 @@ git config user.name или git config user.email
 ```sh
 cd "Путь к файлу"
 ```
+## 5. Для обзора версии Git-а 
+```sh
+git --version
+```
