@@ -12,3 +12,7 @@ git config --global user.email "наш email"
 ```sh
 git config user.name или git config user.email
 ```
+## 4. Для привязки папки,задаем адрес
+```sh
+cd "Путь к файлу"
+```
