@@ -72,5 +72,10 @@ git log --oneline
 ```sh
 git restore
 ```
+## 19. Отменяем действие 
+```sh
+git restore --staged
+```
+
 
 
